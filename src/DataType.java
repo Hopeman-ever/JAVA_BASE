@@ -13,6 +13,8 @@ public class DataType {
         char c1 = 33;
         System.out.println(c1);
 
+        String v = "dasdadad";
+
         String a = "dasdasdsad";
     }
 }
