@@ -12,5 +12,7 @@ public class BinaryTest {
         System.out.println(n2);
         System.out.println(n3);
         System.out.println(n4);
+
+        int a = 222;
     }
 }
