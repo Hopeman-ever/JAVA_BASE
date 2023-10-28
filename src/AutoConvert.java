@@ -10,5 +10,7 @@ public class AutoConvert {
         System.out.println(s1);
         String s2 = "123456";
         System.out.println(Double.parseDouble(s2));
+
+        // 冲突点
     }
 }
