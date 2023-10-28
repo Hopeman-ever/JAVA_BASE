@@ -12,5 +12,7 @@ public class DataType {
 //        System.out.println(Character.BYTES);
         char c1 = 33;
         System.out.println(c1);
+
+        String a = "dasdasdsad";
     }
 }
