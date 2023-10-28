@@ -11,6 +11,14 @@ public class AutoConvert {
         String s2 = "123456";
         System.out.println(Double.parseDouble(s2));
 
-        // 冲突点
+        // 测试分支切换
+        for (int i = 0; i <9; i++) {
+            System.out.println("测试分支切换");
+        }
+
+        // git stash
+        for (int i = 0; i < 10; i++) {
+            System.out.println("先stash再切换分支");
+        }
     }
 }
